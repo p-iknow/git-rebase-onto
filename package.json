@@ -1,0 +1,19 @@
+{
+  "name": "git-rebase-onto-example",
+  "version": "1.0.0",
+  "description": "repo to show example git rebase onto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-iknow/git-rebase-onto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-iknow/git-rebase-onto/issues"
+  },
+  "homepage": "https://github.com/p-iknow/git-rebase-onto#readme"
+}
